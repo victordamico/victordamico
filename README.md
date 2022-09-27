@@ -9,7 +9,7 @@
 
 
 
-- 👨‍💻 Desenvolvedor Python
+- 👨‍💻 Desenvolvedor Python s
 
 <div>
   <a href="https://github.com/victordamico">
