@@ -13,7 +13,7 @@
 
 - 👨‍💻 Desenvolvedor Python 
 
-<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
+
 
 
 <div>
