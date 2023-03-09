@@ -5,6 +5,12 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=star+jedirs&size=35&pause=1000&color=FFFF00C&vCenter=true&width=600&height=70&lines=Hello+I'm+Victor+D'Amico;a+Developer+Python;)](https://git.io/typing-svg)
  
+ 
+ <div align="center">
+   <img height="380em" src="https://1.bp.blogspot.com/-HgYsrbDQrzs/VqfPmjM8bmI/AAAAAAAACms/QN28IiShRws/s280/tumblr_nyjb4tdzup1qk9eg1o1_r1_250.gif"/>
+</div>
+ 
+ 
  </div>
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/victordamicoo)
