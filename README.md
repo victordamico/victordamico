@@ -5,6 +5,7 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=star+jedirs&size=35&pause=1000&color=FFFF00C&vCenter=true&width=600&height=70&lines=Hello+I'm+Victor+D'Amico;a+Developer+Python;)](https://git.io/typing-svg)
  
+ </br>
  
  <div align="center">
    <img height="380em" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-do-pequeno-principe-2.gif"/>
