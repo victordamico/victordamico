@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=star+jedirs&size=35&pause=1000&color=FFFF00C&vCenter=true&width=600&height=70&lines=Hello+I'm+Victor+D'Amico;a+Developer+Python;)](https://git.io/typing-svg)
  
  </br>
- 
+
  <div align="center">
    <img height="380em" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-do-pequeno-principe-2.gif"/>
 </div>
@@ -24,7 +24,7 @@
  
  <br>
   <div>
-   
+  
   <img align="center" alt="Victor-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Victor-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
   <img align="center" alt="Victor-PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
