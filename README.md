@@ -4,22 +4,12 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=238FEE&center=true&vCenter=true&width=700&height=60&lines=Hello%2C+I'm+Victor+%F0%9F%91%8B;Python+Developer;Technology+%E2%80%A2+Automation+%E2%80%A2+Code;Welcome+to+my+GitHub+%E2%9C%A8"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=238FEE&center=true&vCenter=true&width=700&height=60&lines=Hello%2C+I'm+Victor+%F0%9F%91%8B;Java+Developer;Technology+%E2%80%A2+Automation+%E2%80%A2+Code;Welcome+to+my+GitHub+%E2%9C%A8"/>
 <br><br>
-
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/anime-wave.gif" width="280">
 
 </div>
 
 ---
-
-<div align="center">
-
-### ⚡ 「 Code. Create. Improve. Repeat. 」
-
-</div>
-
 <br>
 
 ## 🌌 About Me
@@ -100,51 +90,6 @@ class Victor:
 </div>
 
 <br>
-
----
-
-## 🎴 Featured Project
-
-<div align="center">
-
-<a href="https://github.com/victordamico/Download-extensao">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=victordamico&repo=Download-extensao&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=238FEE&icon_color=238FEE&text_color=FFFFFF"/>
-
-</a>
-
-</div>
-
-<br>
-
----
-
-## 🐍 Contribution Quest
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/victordamico/victordamico/output/dist/github-snake.svg" alt="GitHub Snake Animation">
-
-</div>
-
-<br>
-
----
-
-## ☕ Support My Work
-
-<div align="center">
-
-<a href="https://www.buymeacoffee.com/victordamicoo">
-
-<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" width="180">
-
-</a>
-
-</div>
-
-<br>
-
 ---
 
 ## 🌐 Connect With Me
